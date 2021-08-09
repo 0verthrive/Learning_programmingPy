@@ -1,0 +1,1 @@
+print("Programar é pensar")
